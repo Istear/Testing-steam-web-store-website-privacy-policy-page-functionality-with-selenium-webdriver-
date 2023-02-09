@@ -1,0 +1,17 @@
+{
+  "name": "task2.1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --timeout 60000"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.7",
+    "chromedriver": "^109.0.0",
+    "mocha": "^10.2.0",
+    "selenium-webdriver": "^3.6.0"
+  }
+}
